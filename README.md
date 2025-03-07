@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aadiv4/aadiv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left">Hi 👋, I am Aaditya Vyas</h1>
 
-## Hey 👋, this is Aaditya Vyas
 [![Gmail Badge](https://img.shields.io/badge/-aadivyas4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aadivyas4@gmail.com)](mailto:aadivyas4@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-aadityavyass-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityavyass/)](https://www.linkedin.com/in/aaditya-vyass/) [![Github Badge](https://img.shields.io/badge/-aadiv4-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aadiv4/)](https://www.github.com/aadiv4/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/aadiv4/aadiv4/)](https://github.com/aadiv4/aadiv4/) <p align='left'> I'm an aerospace engineer-turned data scientist seeking to pursue new opportunites and a career within data science.  </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
